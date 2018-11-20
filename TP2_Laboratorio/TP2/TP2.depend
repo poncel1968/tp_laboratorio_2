@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1542751096 source:/home/alumno/Descargas/TP2_Laboratorio/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn.h"
+
+1542751096 /home/alumno/Descargas/TP2_Laboratorio/ArrayEmployees.h
+
+1542751096 /home/alumno/Descargas/TP2_Laboratorio/utn.h
+
+1542751096 source:/home/alumno/Descargas/TP2_Laboratorio/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1542751096 source:/home/alumno/Descargas/TP2_Laboratorio/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
